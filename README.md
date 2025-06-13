@@ -1,2 +1,3 @@
 Introduction to Cybersecurity offered by Networking Academy through the Cisco Networking Academy program :
-![{6DACD70D-153E-4E0A-BF22-ECC2F5539850}](https://github.com/user-attachments/assets/d9764997-d841-42a0-b232-6bca586e1435)
+![{47D73854-9FFA-4FFB-85D0-F021701E04A7}](https://github.com/user-attachments/assets/a0cffd6d-eaae-4757-81f8-9488e1052ecc)
+
